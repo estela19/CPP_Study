@@ -25,33 +25,28 @@ File in this repository include practice codes
 ### 6. Class
 * 6-1-1. [shape circumference & area](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-1-1.cpp)
 * 6-1-2. [account class](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-1-2.cpp)
+
 * 6-2. [simple reply administrator](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-2.cpp)
+
 * 6-3. [minimal fighter](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-2.cpp)
 
 ### 7. STL
 ### 8. Inheritance
 * 8-1-1. [number, square, cube](https://github.com/estela19/CPP_Study/blob/master/Chapter8_Inheritance/8-1-1.cpp)
-
 * 8-1-2. [square, rectangle(circumference & area)](https://github.com/estela19/CPP_Study/blob/master/Chapter8_Inheritance/8-1-2.cpp) 
 
 * 8-2. [shape drawing](https://github.com/estela19/CPP_Study/blob/master/Chapter8_Inheritance/8-2.cpp)
 
 ### 9. Polymorphism1
 * 9-1-1. [virtual example1](https://github.com/estela19/CPP_Study/blob/master/Chapter9_Polymorphism1/9-1-1.cpp)
-
 * 9-1-2. [virtual example2 (return instance)](https://github.com/estela19/CPP_Study/blob/master/Chapter9_Polymorphism1/9-1-2.cpp)
-
 * 9-1-3. [virtual example3 (destructor polymorphism)](https://github.com/estela19/CPP_Study/blob/master/Chapter9_Polymorphism1/9-1-3.cpp)
-
 * 9-2-1. [animal feature class](https://github.com/estela19/CPP_Study/blob/master/Chapter9_Polymorphism1/9-2-1.cpp)
 
 ### 10. Polymorphism2
 * 10-1-1. [pure virtual example1](https://github.com/estela19/CPP_Study/blob/master/Chapter10_Cppmore%26Polymorphism2/10-1-1.cpp)
-
 * 10-1-2. [static cast](https://github.com/estela19/CPP_Study/blob/master/Chapter10_Cppmore%26Polymorphism2/10-1-2.cpp)
-
 * 10-1-3. [dyamic cast](https://github.com/estela19/CPP_Study/blob/master/Chapter10_Cppmore%26Polymorphism2/10-1-3.cpp)
-
 * 10-1-4. [triangle, rectalgle (width & height)](https://github.com/estela19/CPP_Study/blob/master/Chapter10_Cppmore%26Polymorphism2/10-1-4.cpp)
 
 ### 11. Overloading
