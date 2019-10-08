@@ -60,5 +60,5 @@ File in this repository include practice codes
 
 ## More
 During August 2019  
-studied chapter 4-13
+studied chapter 4-13  
 Because of short time, I only exercise part of homwork.
