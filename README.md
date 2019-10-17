@@ -28,7 +28,7 @@ File in this repository include practice codes
 
 * 6-2. [simple reply administrator](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-2.cpp)
 
-* 6-3. [minimal fighter](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-2.cpp)
+* 6-3. [minimal fighter](https://github.com/estela19/CPP_Study/blob/master/Chapter6_Class/6-3.cpp)
 
 ### 7. STL
 ### 8. Inheritance
